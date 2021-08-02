@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bathula9
-- 👀 I’m interested in becoming a Full Stack Developer
+- 👀 I’m an aspiring Full Stack Developer
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
