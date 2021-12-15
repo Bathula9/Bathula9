@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bathula</h1>
 <h3 align="center">I'm a MBA Graduate & an Aspiring Full Stack Developer, very adaptable & detail-oriented.</h3>
 
-- 🔭 I’m currently working on **my Portfolio**
+- 🔭 I’m taking 4 months intensive course at Paris
 
 - 🌱 I’m currently learning **React**
 
