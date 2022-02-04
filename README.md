@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bathula</h1>
-<h3 align="center">I'm a MBA Graduate in Computer Science & an aspiring frontend Developer, very adaptable & detail-oriented.</h3>
+<h3 align="center">I'm an MBA Graduate in Computer Science & an aspiring frontend Developer, very adaptable & detail-oriented.</h3>
 
 - 🔭 I’m taking 4 months intensive course at IFOCOP in Paris
 
