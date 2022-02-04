@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://codesandbox.com/bathu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="bathu" height="30" width="40" /></a>
 <a href="https://instagram.com/hello_world_from_paris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hello_world_from_paris" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bathulaparis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bathulaparis" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
