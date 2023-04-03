@@ -3,7 +3,7 @@
 
 - 🔭 I recently graduated from 8 months intensive course at IFOCOP in Paris
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently looking for a job as a **Product Owner**
 
 - 🤝 I completed Web Development Bootcamp on Udemy [https://www.udemy.com/certificate/UC-2c7f189a-7605-4d30-a16b-aadaa1f09c2f/](https://www.udemy.com/certificate/UC-2c7f189a-7605-4d30-a16b-aadaa1f09c2f/)
 
