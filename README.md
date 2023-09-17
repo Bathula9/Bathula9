@@ -7,7 +7,6 @@
 
 - 🤝 I completed Web Development Bootcamp on Udemy [https://www.udemy.com/certificate/UC-2c7f189a-7605-4d30-a16b-aadaa1f09c2f/](https://www.udemy.com/certificate/UC-2c7f189a-7605-4d30-a16b-aadaa1f09c2f/)
 
-- 👨‍💻 My portfolio: https://rad-croquembouche-407ca0.netlify.app/
 
 
 <h3 align="left">Connect with me:</h3>
